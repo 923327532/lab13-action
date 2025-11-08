@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Compilar
-        run: echo "Compilando..."
+        run: echo "Compilando denuevo..."
   test:
     runs-on: ubuntu-latest
     steps:
